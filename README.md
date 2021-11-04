@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/luizmriba/
 
 Repositórios
-- Brasileirao (Em desenvolvimento) v0.22
+- Brasileirao (Em desenvolvimento) v0.28
 
 Documentação
 - Guide Python
