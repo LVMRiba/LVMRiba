@@ -7,7 +7,6 @@
 
 Repositórios
 - Brasileirao (Em desenvolvimento) v0.22
-- O&G_Brazil_Reserves (Em desenvolvimento) v0.1
 
 Documentação
 - Guide Python
