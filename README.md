@@ -6,11 +6,13 @@
 - 📫 How to reach me: https://www.linkedin.com/in/luizmriba/
 
 Repositórios
-- Brasileirao (Em desenvolvimento) v0.28
+- **Brasileirao**: Análise de Dados do Campeonato Brasileiro (Em desenvolvimento) v0.32
+- **Minigames**: Coletânea de algoritmos de minijogos
+- **Templates**: Coletânea de algoritmos de templates de execução de tarefas
 
 Documentação
-- Guide Python
-- Guide SQL
+- **Guide Python**: Guia de documentação e conteúdo sobre Python
+- **Guide SQL**: Guia de documentação e conteúdo sobre SQL
 
 <!---
 LVMRiba/LVMRiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
