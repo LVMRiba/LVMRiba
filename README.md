@@ -7,8 +7,8 @@
 
 Repositórios
 - **Brasileirao**: Análise de Dados do Campeonato Brasileiro (Em desenvolvimento) v0.32
-- **Minigames**: Coletânea de algoritmos de minijogos
-- **Templates**: Coletânea de algoritmos de templates de execução de tarefas
+- **Minigames**: Coletânea de algoritmos de Minijogos
+- **Templates**: Coletânea de algoritmos de Templates de execução de tarefas
 
 Documentação
 - **Guide Python**: Guia de documentação e conteúdo sobre Python
