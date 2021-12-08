@@ -14,6 +14,11 @@ Documentação
 - **Guide Python**: Guia de documentação e conteúdo sobre Python
 - **Guide SQL**: Guia de documentação e conteúdo sobre SQL
 
+<div>
+  <a href="https://github.com/LVMRiba">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LVMRiba&show_icons=true&theme=github_dark&include_all_commits-true"/>
+</div>
+
 <!---
 LVMRiba/LVMRiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
