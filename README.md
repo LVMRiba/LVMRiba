@@ -7,6 +7,7 @@
 
 Repositórios
 - **Brasileirao**: Análise de Dados do Campeonato Brasileiro (Em desenvolvimento) v0.32
+- **MiniProjects**: Coletânea de Análise de Dados de MiniProjetos
 - **Minigames**: Coletânea de algoritmos de Minijogos
 - **Templates**: Coletânea de algoritmos de Templates de execução de tarefas
 
