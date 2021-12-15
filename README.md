@@ -1,3 +1,6 @@
+
+### INTRO
+
 - 👋 Hi, I’m Luiz Victor Moraes Riba. Welcome to my GITHUB: @LVMRiba
 - 🇧🇷 I'm Brazilian from Rio de Janeiro (RJ) where I was born and I'm living until nowadays.
 - 👷 I'm graduated in Petroleum Enginnering and post-graduated in Project Management.
@@ -5,13 +8,15 @@
 - 🌱 I know Python, Power BI and SQL and I'm still learning more about them.
 - 📫 How to reach me: https://www.linkedin.com/in/luizmriba/
 
-Repositórios
+---
+
+### Repositórios
 - **Brasileirao**: Análise de Dados do Campeonato Brasileiro (Em desenvolvimento) v0.32
 - **MiniProjects**: Coletânea de Análise de Dados de MiniProjetos
 - **Minigames**: Coletânea de algoritmos de Minijogos
 - **Templates**: Coletânea de algoritmos de Templates de execução de tarefas
 
-Documentação
+### Documentação
 - **Guide Python**: Guia de documentação e conteúdo sobre Python
 - **Guide SQL**: Guia de documentação e conteúdo sobre SQL
 
