@@ -15,6 +15,7 @@
 - **MiniProjects**: Coletânea de Análise de Dados de MiniProjetos
 - **Minigames**: Coletânea de algoritmos de Minijogos
 - **Templates**: Coletânea de algoritmos de Templates de execução de tarefas
+- **Dashboards**: Coletânea de dashboards feitos em Power BI (Em desenvolvimento)
 
 ### Documentação
 - **Guide Python**: Guia de documentação e conteúdo sobre Python
